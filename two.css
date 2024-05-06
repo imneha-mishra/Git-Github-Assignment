@@ -1,0 +1,47 @@
+.container{
+    background-color: black;
+    width: 520px;
+    height: 550px;
+    padding: 5px;
+    margin: 40px auto;
+    border-radius: 5px;
+}
+
+
+.form{
+    width: 400px;
+    height: 500px;
+    margin: 10px  auto;
+    background-color: #ffff;
+     justify-content: center;
+     border-radius: 5px;
+}
+.form .heading{
+    margin-left: 150px;
+    padding: 15px;
+   
+}
+.form input{
+    margin: 10px;
+    width: 335px;
+    height: 20px;
+    padding: 6px;
+    margin-left: 25px;
+  
+}
+.form select{
+    width: 340px;
+    height: 35px;
+    padding: 5px;
+    margin-left: 25px;
+}
+.form label{
+    margin-left: 25px;
+}
+.form .submit{
+    margin-top: 15px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    cursor: pointer;
+}
